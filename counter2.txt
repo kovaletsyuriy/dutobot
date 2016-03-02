@@ -1,0 +1,1629 @@
+<table class="timeTable" id="timeTableGroup">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="ru">
+<br><tr>
+<td>
+                  <div>Пн</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">2 пара</span><span class="start">09:45</span><span class="finish">11:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">3 пара</span><span class="start">11:45</span><span class="finish">13:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">4 пара</span><span class="start">13:30</span><span class="finish">15:05</span>
+</div>
+</td>
+<td class="closed">
+                    <div>29.02.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>07.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Св'ятковий День[Доп]&lt;br&gt;
+ауд. Резерв&lt;br&gt;
+ ..&lt;br&gt;
+Добавлено: 24.11.2015 09:57&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e3ebe4">
+    <span>СвД[Доп]</span><br>
+    ауд. Резерв<br>
+     ..
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>14.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лб]&lt;br&gt;
+ауд. 507&lt;br&gt;
+Латипов І.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:33&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОСТ[Лб]</span><br>
+    ауд. 507<br>
+    Латипов І.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 513&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 513<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>21.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Пз]&lt;br&gt;
+ауд. 325&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 08.12.2015 14:34&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ОСТ[Пз]</span><br>
+    ауд. 325<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 513&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 513<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>28.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лб]&lt;br&gt;
+ауд. 507&lt;br&gt;
+Латипов І.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:33&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОСТ[Лб]</span><br>
+    ауд. 507<br>
+    Латипов І.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 513&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 513<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>04.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Пз]&lt;br&gt;
+ауд. 325&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 08.12.2015 14:34&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ОСТ[Пз]</span><br>
+    ауд. 325<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 513&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 513<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>11.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лб]&lt;br&gt;
+ауд. 507&lt;br&gt;
+Латипов І.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:33&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОСТ[Лб]</span><br>
+    ауд. 507<br>
+    Латипов І.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 320&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 320<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>18.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Пз]&lt;br&gt;
+ауд. 325&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 08.12.2015 14:34&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ОСТ[Пз]</span><br>
+    ауд. 325<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 320&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 320<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>25.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лб]&lt;br&gt;
+ауд. 310&lt;br&gt;
+Латипов І.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:33&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОСТ[Лб]</span><br>
+    ауд. 310<br>
+    Латипов І.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 513&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 513<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+</tr>
+<tr>
+<td>
+                  <div>Вт</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">2 пара</span><span class="start">09:45</span><span class="finish">11:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">3 пара</span><span class="start">11:45</span><span class="finish">13:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">4 пара</span><span class="start">13:30</span><span class="finish">15:05</span>
+</div>
+</td>
+<td class="closed">
+                    <div>01.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>08.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Св'ятковий День[Доп]&lt;br&gt;
+ауд. Резерв&lt;br&gt;
+ ..&lt;br&gt;
+Добавлено: 18.11.2015 16:38&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e3ebe4">
+    <span>СвД[Доп]</span><br>
+    ауд. Резерв<br>
+     ..
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>15.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 420<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>22.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 420<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>29.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 329<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>05.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 329<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>12.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 329<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>19.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 329<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>26.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 11:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОТТМП[Лб]</span><br>
+    ауд. 205<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Іноземна мова[Пз]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Дідурик А.І.&lt;br&gt;
+Добавлено: 08.12.2015 16:52&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІМ[Пз]</span><br>
+    ауд. 329<br>
+    Дідурик А.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Сем]&lt;br&gt;
+ауд. 420&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ПР[Сем]</span><br>
+    ауд. 420<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лк]&lt;br&gt;
+ауд. 401&lt;br&gt;
+Варфоломеєва О.Г.&lt;br&gt;
+Добавлено: 09.12.2015 09:35&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ТЕЗ[Лк]</span><br>
+    ауд. 401<br>
+    Варфоломеєва О.Г.
+    <span class="hidden"></span>
+</div></div>
+</td>
+</tr>
+<tr>
+<td>
+                  <div>Ср</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">2 пара</span><span class="start">09:45</span><span class="finish">11:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">3 пара</span><span class="start">11:45</span><span class="finish">13:20</span>
+</div>
+</td>
+<td>
+                    <div>02.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Пз]&lt;br&gt;
+ауд. 216&lt;br&gt;
+Василенко В.В.&lt;br&gt;
+Добавлено: 08.12.2015 16:38&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІММ-13[Пз]</span><br>
+    ауд. 216<br>
+    Василенко В.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>09.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:26&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІКГ[Пз]</span><br>
+    ауд. 205<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Пз]&lt;br&gt;
+ауд. 216&lt;br&gt;
+Василенко В.В.&lt;br&gt;
+Добавлено: 08.12.2015 16:43&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІММ-13[Пз]</span><br>
+    ауд. 216<br>
+    Василенко В.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>16.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лб]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 08:59&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ТЕЗ[Лб]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>23.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лб]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 08:59&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ТЕЗ[Лб]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="JavaScript[Пз]&lt;br&gt;
+ауд. 326&lt;br&gt;
+Гаманюк І.М.&lt;br&gt;
+Добавлено: 18.02.2016 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>JS-15[Пз]</span><br>
+    ауд. 326<br>
+    Гаманюк І.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>30.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Пз]&lt;br&gt;
+ауд. 216&lt;br&gt;
+Василенко В.В.&lt;br&gt;
+Добавлено: 08.12.2015 16:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІММ-13[Пз]</span><br>
+    ауд. 216<br>
+    Василенко В.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="JavaScript[Пз]&lt;br&gt;
+ауд. 326&lt;br&gt;
+Гаманюк І.М.&lt;br&gt;
+Добавлено: 18.02.2016 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>JS-15[Пз]</span><br>
+    ауд. 326<br>
+    Гаманюк І.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>06.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лб]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 08:59&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ТЕЗ[Лб]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="JavaScript[Пз]&lt;br&gt;
+ауд. 326&lt;br&gt;
+Гаманюк І.М.&lt;br&gt;
+Добавлено: 18.02.2016 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>JS-15[Пз]</span><br>
+    ауд. 326<br>
+    Гаманюк І.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>13.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Пз]&lt;br&gt;
+ауд. 216&lt;br&gt;
+Василенко В.В.&lt;br&gt;
+Добавлено: 08.12.2015 16:44&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІММ-13[Пз]</span><br>
+    ауд. 216<br>
+    Василенко В.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="JavaScript[Пз]&lt;br&gt;
+ауд. 326&lt;br&gt;
+Гаманюк І.М.&lt;br&gt;
+Добавлено: 18.02.2016 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>JS-15[Пз]</span><br>
+    ауд. 326<br>
+    Гаманюк І.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>20.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Лб]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 08:59&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ТЕЗ[Лб]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="JavaScript[Пз]&lt;br&gt;
+ауд. 326&lt;br&gt;
+Гаманюк І.М.&lt;br&gt;
+Добавлено: 18.02.2016 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>JS-15[Пз]</span><br>
+    ауд. 326<br>
+    Гаманюк І.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>27.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>СБД ПЕОМ[Лб]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Пз]&lt;br&gt;
+ауд. 216&lt;br&gt;
+Василенко В.В.&lt;br&gt;
+Добавлено: 08.12.2015 16:45&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІММ-13[Пз]</span><br>
+    ауд. 216<br>
+    Василенко В.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="JavaScript[Пз]&lt;br&gt;
+ауд. 326&lt;br&gt;
+Гаманюк І.М.&lt;br&gt;
+Добавлено: 18.02.2016 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>JS-15[Пз]</span><br>
+    ауд. 326<br>
+    Гаманюк І.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+</tr>
+<tr>
+<td>
+                  <div>Чт</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">2 пара</span><span class="start">09:45</span><span class="finish">11:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">3 пара</span><span class="start">11:45</span><span class="finish">13:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">4 пара</span><span class="start">13:30</span><span class="finish">15:05</span>
+</div>
+</td>
+<td>
+                    <div>03.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Лк]&lt;br&gt;
+ауд. 211&lt;br&gt;
+Гайдур Г.І.&lt;br&gt;
+Добавлено: 08.12.2015 14:05&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІММ-13[Лк]</span><br>
+    ауд. 211<br>
+    Гайдур Г.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 09.12.2015 10:04&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>КПДА[Лк]</span><br>
+    ауд. 317<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>10.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІКГ[Лк]</span><br>
+    ауд. 317<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 09.12.2015 10:04&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>КПДА[Лк]</span><br>
+    ауд. 317<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ПР[Лк]</span><br>
+    ауд. 317<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>17.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:24&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>СБД ПЕОМ[Лк]</span><br>
+    ауд. 317<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІКГ[Лк]</span><br>
+    ауд. 317<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Філософія[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Аташкаде Р.В.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ФЛ[Лк]</span><br>
+    ауд. 317<br>
+    Аташкаде Р.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>24.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Лк]&lt;br&gt;
+ауд. 211&lt;br&gt;
+Гайдур Г.І.&lt;br&gt;
+Добавлено: 08.12.2015 14:07&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІММ-13[Лк]</span><br>
+    ауд. 211<br>
+    Гайдур Г.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 14:07&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>СБД ПЕОМ[Лк]</span><br>
+    ауд. 317<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ПР[Лк]</span><br>
+    ауд. 317<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>31.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:24&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>СБД ПЕОМ[Лк]</span><br>
+    ауд. 317<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІКГ[Лк]</span><br>
+    ауд. 317<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Філософія[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Аташкаде Р.В.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ФЛ[Лк]</span><br>
+    ауд. 317<br>
+    Аташкаде Р.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>07.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Лк]&lt;br&gt;
+ауд. 211&lt;br&gt;
+Гайдур Г.І.&lt;br&gt;
+Добавлено: 08.12.2015 14:08&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІММ-13[Лк]</span><br>
+    ауд. 211<br>
+    Гайдур Г.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 14:07&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>СБД ПЕОМ[Лк]</span><br>
+    ауд. 317<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ПР[Лк]</span><br>
+    ауд. 317<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>14.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:24&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>СБД ПЕОМ[Лк]</span><br>
+    ауд. 317<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІКГ[Лк]</span><br>
+    ауд. 317<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Філософія[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Аташкаде Р.В.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ФЛ[Лк]</span><br>
+    ауд. 317<br>
+    Аташкаде Р.В.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>21.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інфраструктура мереж майбутнього[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гайдур Г.І.&lt;br&gt;
+Добавлено: 08.12.2015 14:08&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ІММ-13[Лк]</span><br>
+    ауд. 317<br>
+    Гайдур Г.І.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Обчислювальна техніка та мікропроцесори[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Гололобов Д.О.&lt;br&gt;
+Добавлено: 08.12.2015 13:23&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОТТМП[Лк]</span><br>
+    ауд. 317<br>
+    Гололобов Д.О.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 14:08&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>СБД ПЕОМ[Лк]</span><br>
+    ауд. 317<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 09.12.2015 10:10&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ПР[Лк]</span><br>
+    ауд. 317<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td class="closed">
+                    <div>28.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+</tr>
+<tr>
+<td>
+                  <div>Пт</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">2 пара</span><span class="start">09:45</span><span class="finish">11:20</span>
+</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">3 пара</span><span class="start">11:45</span><span class="finish">13:20</span>
+</div>
+</td>
+<td>
+                    <div>04.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 506&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 11:11&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 506<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Філософія[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Аташкаде Р.В.&lt;br&gt;
+Добавлено: 09.12.2015 11:12&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ФЛ[Лк]</span><br>
+    ауд. 317<br>
+    Аташкаде Р.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>11.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:26&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ІКГ[Лб]</span><br>
+    ауд. 205<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>18.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:27&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІКГ[Пз]</span><br>
+    ауд. 205<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 09:02&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ТЕЗ[Пз]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>25.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 506&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 11:06&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 506<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 09.12.2015 11:06&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>КПДА[Лк]</span><br>
+    ауд. 317<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 09.12.2015 11:06&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ПР[Лк]</span><br>
+    ауд. 317<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>01.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Лб]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:28&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ІКГ[Лб]</span><br>
+    ауд. 205<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 09:02&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ТЕЗ[Пз]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>08.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 510&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 11:06&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 510<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 09.12.2015 11:06&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>КПДА[Лк]</span><br>
+    ауд. 317<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Правознавство[Лк]&lt;br&gt;
+ауд. 317&lt;br&gt;
+Сотниченко В.М.&lt;br&gt;
+Добавлено: 09.12.2015 11:06&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ПР[Лк]</span><br>
+    ауд. 317<br>
+    Сотниченко В.М.
+    <span class="hidden"></span>
+</div></div>
+</td>
+<td>
+                    <div>15.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Інженерна та комп'ютерна графіка[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Андрєєва Е.П.&lt;br&gt;
+Добавлено: 08.12.2015 13:29&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ІКГ[Пз]</span><br>
+    ауд. 205<br>
+    Андрєєва Е.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 09:02&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ТЕЗ[Пз]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>22.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Філософія[Сем]&lt;br&gt;
+ауд. 329&lt;br&gt;
+Аташкаде Р.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:07&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fff0ff">
+    <span>ФЛ[Сем]</span><br>
+    ауд. 329<br>
+    Аташкаде Р.В.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Теорія електричного зв'язку[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Грушевська В.П.&lt;br&gt;
+Добавлено: 09.12.2015 09:03&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>ТЕЗ[Пз]</span><br>
+    ауд. 215<br>
+    Грушевська В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td class="closed">
+                    <div>29.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+</tr>
+<tr>
+<td>
+                  <div>Сб</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+</td>
+<td>
+                    <div>05.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>12.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>19.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>26.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>02.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>09.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>16.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>23.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td class="closed">
+                    <div>30.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+</tr>
+<tr>
+<td>
+                  <div>Вс</div>
+<div class="mh-50 cell cell-vertical">
+<span class="lesson">1 пара</span><span class="start">08:00</span><span class="finish">09:35</span>
+</div>
+</td>
+<td>
+                    <div>06.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>13.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>20.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>27.03.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>03.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>10.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>17.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td>
+                    <div>24.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+<td class="closed">
+                    <div>01.05.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content=""></div>
+</td>
+</tr>
+</table>

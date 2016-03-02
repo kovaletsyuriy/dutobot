@@ -1,0 +1,42 @@
+
+                    <div>11.04.2016</div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Створення та обробка баз даних ПЕОМ[Пз]&lt;br&gt;
+ауд. 205&lt;br&gt;
+Ярцев В.П.&lt;br&gt;
+Добавлено: 08.12.2015 12:09&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>СБД ПЕОМ[Пз]</span><br>
+    ауд. 205<br>
+    Ярцев В.П.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лб]&lt;br&gt;
+ауд. 507&lt;br&gt;
+Латипов І.М.&lt;br&gt;
+Добавлено: 08.12.2015 14:33&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#c4e5ff">
+    <span>ОСТ[Лб]</span><br>
+    ауд. 507<br>
+    Латипов І.М.
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Кінцеві пристрої абонентського доступу[Пз]&lt;br&gt;
+ауд. 215&lt;br&gt;
+Недашківський О.Л.&lt;br&gt;
+Добавлено: 08.12.2015 14:37&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#e2ffe2">
+    <span>КПДА[Пз]</span><br>
+    ауд. 215<br>
+    Недашківський ...
+    <span class="hidden"></span>
+</div></div>
+<div class="cell mh-50" data-rel="popover" data-placement="right" data-content="Основи схемотехніки[Лк]&lt;br&gt;
+ауд. 320&lt;br&gt;
+Градобоєва Н.В.&lt;br&gt;
+Добавлено: 09.12.2015 09:36&lt;br&gt;
+&lt;a href='#'&gt;Доп. материалы&lt;/a"><div style="background:#fffadb">
+    <span>ОСТ[Лк]</span><br>
+    ауд. 320<br>
+    Градобоєва Н.В.
+    <span class="hidden"></span>
+</div></div>
